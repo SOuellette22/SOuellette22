@@ -1,6 +1,10 @@
 <h1 align="center">Sean Ouellette</h1>
 
 <p align="center">
+  CS Major & Data Science Minor at Merrimack College (May 2026) | President of Computer Club
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/souellette22/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -8,6 +12,17 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Culvert Condition Predictor](https://github.com/SOuellette22/DMS-inc-CSC4910) | Senior capstone — web app for predicting culvert conditions based on user-input parameters. Built the backend with Flask. | Python, Flask, HTML/CSS |
+| [Mini-I2P](https://github.com/SOuellette22) | Anonymous audio streaming service built on a custom I2P-style network. Designed the application layer for multi-user upload and playback. | Java |
+| [Chess via Sockets](https://github.com/SOuellette22) | Real-time chess gameplay over Java socket networking. Implemented the board and piece logic layer. | Java |
+| [MFL — Merrimack Functional Language](https://github.com/SOuellette22) | Custom functional programming language interpreted into Java and compiled. Added module support and function keyword. | Java |
 
 ---
 
@@ -31,6 +46,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Tools
 
@@ -39,6 +55,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
