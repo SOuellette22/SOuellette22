@@ -20,9 +20,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Culvert Condition Predictor](https://github.com/SOuellette22/DMS-inc-CSC4910) | Senior capstone — web app for predicting culvert conditions based on user-input parameters. Built the backend with Flask. | Python, Flask, HTML/CSS |
-| [Mini-I2P](https://github.com/SOuellette22) | Anonymous audio streaming service built on a custom I2P-style network. Designed the application layer for multi-user upload and playback. | Java |
-| [Chess via Sockets](https://github.com/SOuellette22) | Real-time chess gameplay over Java socket networking. Implemented the board and piece logic layer. | Java |
-| [MFL — Merrimack Functional Language](https://github.com/SOuellette22) | Custom functional programming language interpreted into Java and compiled. Added module support and function keyword. | Java |
+| [Mini-I2P]([https://github.com/SOuellette22](https://github.com/SOuellette22/CSC3055_Final_Cook_Holtzman_Ouellette)) | Anonymous audio streaming service built on a custom I2P-style network. Designed the application layer for multi-user upload and playback. | Java |
+| [Chess via Sockets]([https://github.com/SOuellette22](https://github.com/vern3432/CSC2620_PF_Holtzman_Ouellette_Varano)) | Real-time chess gameplay over Java socket networking. Implemented the board and piece logic layer. | Java |
 
 ---
 
